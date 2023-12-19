@@ -873,6 +873,8 @@ function _Chat() {
       copiedHello.content = Locale.Error.Unauthorized;
     }
     context.push(copiedHello);
+    // Visual Testing area
+    context.push(copiedHello);
   }
 
   // preview messages
